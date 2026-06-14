@@ -4,7 +4,8 @@
   "description": "backend task given by Popaya Technologies",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node debugging-assignment.js",
+    "dev": "nodemon debugging-assignment.js"
   },
   "keywords": [],
   "author": "",
